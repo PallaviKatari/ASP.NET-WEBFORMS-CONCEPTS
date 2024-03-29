@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+	
+  <siteMapNode url="" title="ASP.Net"  description="">
+      <siteMapNode url="Cookie.aspx" title="Cookie"  description="" />
+      <siteMapNode url="DataList.aspx" title="DataList"  description="" />
+	  
+	  <siteMapNode url="Controls.aspx" title="Controls"  description="">
+		  <siteMapNode url="HTMLControls.aspx" title="HTMLControls"  description=""/>
+	  </siteMapNode>
+	  <siteMapNode url="StateMgmt.aspx.aspx" title="State Management"  description=""/>
+	  
+	  <siteMapNode url="BootstrapSample.html" title="Bootstrap"  description=""/>
+	  <siteMapNode url="Panels.aspx" title="Panels"  description=""/>
+  </siteMapNode>
+</siteMap>
